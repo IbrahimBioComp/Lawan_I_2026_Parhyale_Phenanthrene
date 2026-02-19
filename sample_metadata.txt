@@ -1,0 +1,91 @@
+Sample_ID	Original_ID	Simplified_ID	Treatment	Time_Point (h)	Sex	Replicate	Group	Collection_Date	Collection_Time	Replacement
+IL1	T0-C0-M-R1	Ctrl_0h_Male_R1	Seawater Control	0	Male	R1	Control_0h_Male	[2025-01-24]	09:00 BST	1
+IL106	T0-C0-F-B1	Ctrl_0h_Female_B1	Seawater Control	0	Female	R1	Control_0h_Female	[2025-01-24]	09:00 BST	2
+IL2	T0-C0-M-R2	Ctrl_0h_Male_R2	Seawater Control	0	Male	R2	Control_0h_Male	[2025-01-24]	09:00 BST	1
+IL47	T0-C0-F-R2	Ctrl_0h_Female_R2	Seawater Control	0	Female	R2	Control_0h_Female	[2025-01-24]	09:00 BST	1
+IL3	T0-C0-M-R3	Ctrl_0h_Male_R3	Seawater Control	0	Male	R3	Control_0h_Male	[2025-01-24]	09:00 BST	1
+IL48	T0-C0-F-R3	Ctrl_0h_Female_R3	Seawater Control	0	Female	R3	Control_0h_Female	[2025-01-24]	09:00 BST	1
+IL4	T0-CD-M-R1	DMSO_0h_Male_R1	DMSO Control	0	Male	R1	DMSO_0h_Male	[2025-01-24]	09:00 BST	1
+IL49	T0-CD-F-R1	DMSO_0h_Female_R1	DMSO Control	0	Female	R1	DMSO_0h_Female	[2025-01-24]	09:00 BST	1
+IL5	T0-CD-M-R2	DMSO_0h_Male_R2	DMSO Control	0	Male	R2	DMSO_0h_Male	[2025-01-24]	09:00 BST	1
+IL50	T0-CD-F-R2	DMSO_0h_Female_R2	DMSO Control	0	Female	R2	DMSO_0h_Female	[2025-01-24]	09:00 BST	1
+IL92	T0-CD-M-B1	DMSO_0h_Male_B1	DMSO Control	0	Male	R3	DMSO_0h_Male	[2025-01-24]	09:00 BST	2
+IL107	T0-CD-F-B1	DMSO_0h_Female_B1	DMSO Control	0	Female	R3	DMSO_0h_Female	[2025-01-24]	09:00 BST	2
+IL93	T0-C100-M-B1	Phen100_0h_Male_B1	Phenanthrene	0	Male	R1	Phen100_0h_Male	[2025-01-24]	09:00 BST	2
+IL52	T0-C100-F-R1	Phen100_0h_Female_R1	Phenanthrene	0	Female	R1	Phen100_0h_Female	[2025-01-24]	09:00 BST	1
+IL8	T0-C100-M-R2	Phen100_0h_Male_R2	Phenanthrene	0	Male	R2	Phen100_0h_Male	[2025-01-24]	09:00 BST	1
+IL108	T0-C100-F-B1	Phen100_0h_Female_B1	Phenanthrene	0	Female	R2	Phen100_0h_Female	[2025-01-24]	09:00 BST	2
+IL9	T0-C100-M-R3	Phen100_0h_Male_R3	Phenanthrene	0	Male	R3	Phen100_0h_Male	[2025-01-24]	09:00 BST	1
+IL54	T0-C100-F-R3	Phen100_0h_Female_R3	Phenanthrene	0	Female	R3	Phen100_0h_Female	[2025-01-24]	09:00 BST	1
+IL10	T1-C0-M-R1	Ctrl_1h_Male_R1	Seawater Control	1	Male	R1	Control_1h_Male	[2025-01-24]	10:00 BST	1
+IL55	T1-C0-F-R1	Ctrl_1h_Female_R1	Seawater Control	1	Female	R1	Control_1h_Female	[2025-01-24]	10:00 BST	1
+IL94	T1-C0-M-B1	Ctrl_1h_Male_B1	Seawater Control	1	Male	R2	Control_1h_Male	[2025-01-24]	10:00 BST	2
+IL109	T1-C0-F-B1	Ctrl_1h_Female_B1	Seawater Control	1	Female	R2	Control_1h_Female	[2025-01-24]	10:00 BST	2
+IL12	T1-C0-M-R3	Ctrl_1h_Male_R3	Seawater Control	1	Male	R3	Control_1h_Male	[2025-01-24]	10:00 BST	1
+IL57	T1-C0-F-R3	Ctrl_1h_Female_R3	Seawater Control	1	Female	R3	Control_1h_Female	[2025-01-24]	10:00 BST	1
+IL95	T1-CD-M-B1	DMSO_1h_Male_B1	DMSO Control	1	Male	R1	DMSO_1h_Male	[2025-01-24]	10:00 BST	2
+IL110	T1-CD-F-B1	DMSO_1h_Female_B1	DMSO Control	1	Female	R1	DMSO_1h_Female	[2025-01-24]	10:00 BST	2
+IL14	T1-CD-M-R2	DMSO_1h_Male_R2	DMSO Control	1	Male	R2	DMSO_1h_Male	[2025-01-24]	10:00 BST	1
+IL59	T1-CD-F-R2	DMSO_1h_Female_R2	DMSO Control	1	Female	R2	DMSO_1h_Female	[2025-01-24]	10:00 BST	1
+IL15	T1-CD-M-R3	DMSO_1h_Male_R3	DMSO Control	1	Male	R3	DMSO_1h_Male	[2025-01-24]	10:00 BST	1
+IL60	T1-CD-F-R3	DMSO_1h_Female_R3	DMSO Control	1	Female	R3	DMSO_1h_Female	[2025-01-24]	10:00 BST	1
+IL96	T1-C100-M-B1	Phen100_1h_Male_B1	Phenanthrene	1	Male	R1	Phen100_1h_Male	[2025-01-24]	10:00 BST	2
+IL61	T1-C100-F-R1	Phen100_1h_Female_R1	Phenanthrene	1	Female	R1	Phen100_1h_Female	[2025-01-24]	10:00 BST	1
+IL17	T1-C100-M-R2	Phen100_1h_Male_R2	Phenanthrene	1	Male	R2	Phen100_1h_Male	[2025-01-24]	10:00 BST	1
+IL62	T1-C100-F-R2	Phen100_1h_Female_R2	Phenanthrene	1	Female	R2	Phen100_1h_Female	[2025-01-24]	10:00 BST	1
+IL18	T1-C100-M-R3	Phen100_1h_Male_R3	Phenanthrene	1	Male	R3	Phen100_1h_Male	[2025-01-24]	10:00 BST	1
+IL63	T1-C100-F-R3	Phen100_1h_Female_R3	Phenanthrene	1	Female	R3	Phen100_1h_Female	[2025-01-24]	10:00 BST	1
+IL97	T4-C0-M-B1	Ctrl_4h_Male_B1	Seawater Control	4	Male	R1	Control_4h_Male	[2025-01-24]	13:00 BST	2
+IL64	T4-C0-F-R1	Ctrl_4h_Female_R1	Seawater Control	4	Female	R1	Control_4h_Female	[2025-01-24]	13:00 BST	1
+IL20	T4-C0-M-R2	Ctrl_4h_Male_R2	Seawater Control	4	Male	R2	Control_4h_Male	[2025-01-24]	13:00 BST	1
+IL65	T4-C0-F-R2	Ctrl_4h_Female_R2	Seawater Control	4	Female	R2	Control_4h_Female	[2025-01-24]	13:00 BST	1
+IL21	T4-C0-M-R3	Ctrl_4h_Male_R3	Seawater Control	4	Male	R3	Control_4h_Male	[2025-01-24]	13:00 BST	1
+IL66	T4-C0-F-R3	Ctrl_4h_Female_R3	Seawater Control	4	Female	R3	Control_4h_Female	[2025-01-24]	13:00 BST	1
+IL22	T4-CD-M-R1	DMSO_4h_Male_R1	DMSO Control	4	Male	R1	DMSO_4h_Male	[2025-01-24]	13:00 BST	1
+IL67	T4-CD-F-R1	DMSO_4h_Female_R1	DMSO Control	4	Female	R1	DMSO_4h_Female	[2025-01-24]	13:00 BST	1
+IL98	T4-CD-M-B1	DMSO_4h_Male_B1	DMSO Control	4	Male	R2	DMSO_4h_Male	[2025-01-24]	13:00 BST	2
+IL68	T4-CD-F-R2	DMSO_4h_Female_R2	DMSO Control	4	Female	R2	DMSO_4h_Female	[2025-01-24]	13:00 BST	1
+IL24	T4-CD-M-R3	DMSO_4h_Male_R3	DMSO Control	4	Male	R3	DMSO_4h_Male	[2025-01-24]	13:00 BST	1
+IL113	T4-CD-F-B1	DMSO_4h_Female_B1	DMSO Control	4	Female	R3	DMSO_4h_Female	[2025-01-24]	13:00 BST	2
+IL25	T4-C100-M-R1	Phen100_4h_Male_R1	Phenanthrene	4	Male	R1	Phen100_4h_Male	[2025-01-24]	13:00 BST	1
+IL114	T4-C100-F-B1	Phen100_4h_Female_B1	Phenanthrene	4	Female	R1	Phen100_4h_Female	[2025-01-24]	13:00 BST	2
+IL26	T4-C100-M-R2	Phen100_4h_Male_R2	Phenanthrene	4	Male	R2	Phen100_4h_Male	[2025-01-24]	13:00 BST	1
+IL71	T4-C100-F-R2	Phen100_4h_Female_R2	Phenanthrene	4	Female	R2	Phen100_4h_Female	[2025-01-24]	13:00 BST	1
+IL27	T4-C100-M-R3	Phen100_4h_Male_R3	Phenanthrene	4	Male	R3	Phen100_4h_Male	[2025-01-24]	13:00 BST	1
+IL72	T4-C100-F-R3	Phen100_4h_Female_R3	Phenanthrene	4	Female	R3	Phen100_4h_Female	[2025-01-24]	13:00 BST	1
+IL28	T8-C0-M-R1	Ctrl_8h_Male_R1	Seawater Control	8	Male	R1	Control_8h_Male	[2025-01-24]	17:00 BST	1
+IL73	T8-C0-F-R1	Ctrl_8h_Female_R1	Seawater Control	8	Female	R1	Control_8h_Female	[2025-01-24]	17:00 BST	1
+IL29	T8-C0-M-R2	Ctrl_8h_Male_R2	Seawater Control	8	Male	R2	Control_8h_Male	[2025-01-24]	17:00 BST	1
+IL115	T8-C0-F-B1	Ctrl_8h_Female_B1	Seawater Control	8	Female	R2	Control_8h_Female	[2025-01-24]	17:00 BST	2
+IL100	T8-C0-M-B1	Ctrl_8h_Male_B1	Seawater Control	8	Male	R3	Control_8h_Male	[2025-01-24]	17:00 BST	2
+IL75	T8-C0-F-R3	Ctrl_8h_Female_R3	Seawater Control	8	Female	R3	Control_8h_Female	[2025-01-24]	17:00 BST	1
+IL101	T8-CD-M-B1	DMSO_8h_Male_B1	DMSO Control	8	Male	R1	DMSO_8h_Male	[2025-01-24]	17:00 BST	2
+IL76	T8-CD-F-R1	DMSO_8h_Female_R1	DMSO Control	8	Female	R1	DMSO_8h_Female	[2025-01-24]	17:00 BST	1
+IL32	T8-CD-M-R2	DMSO_8h_Male_R2	DMSO Control	8	Male	R2	DMSO_8h_Male	[2025-01-24]	17:00 BST	1
+IL77	T8-CD-F-R2	DMSO_8h_Female_R2	DMSO Control	8	Female	R2	DMSO_8h_Female	[2025-01-24]	17:00 BST	1
+IL33	T8-CD-M-R3	DMSO_8h_Male_R3	DMSO Control	8	Male	R3	DMSO_8h_Male	[2025-01-24]	17:00 BST	1
+IL78	T8-CD-F-R3	DMSO_8h_Female_R3	DMSO Control	8	Female	R3	DMSO_8h_Female	[2025-01-24]	17:00 BST	1
+IL34	T8-C100-M-R1	Phen100_8h_Male_R1	Phenanthrene	8	Male	R1	Phen100_8h_Male	[2025-01-24]	17:00 BST	1
+IL79	T8-C100-F-R1	Phen100_8h_Female_R1	Phenanthrene	8	Female	R1	Phen100_8h_Female	[2025-01-24]	17:00 BST	1
+IL35	T8-C100-M-R2	Phen100_8h_Male_R2	Phenanthrene	8	Male	R2	Phen100_8h_Male	[2025-01-24]	17:00 BST	1
+IL80	T8-C100-F-R2	Phen100_8h_Female_R2	Phenanthrene	8	Female	R2	Phen100_8h_Female	[2025-01-24]	17:00 BST	1
+IL102	T8-C100-M-B1	Phen100_8h_Male_B1	Phenanthrene	8	Male	R3	Phen100_8h_Male	[2025-01-24]	17:00 BST	2
+IL81	T8-C100-F-R3	Phen100_8h_Female_R3	Phenanthrene	8	Female	R3	Phen100_8h_Female	[2025-01-24]	17:00 BST	1
+IL37	T24-C0-M-R1	Ctrl_24h_Male_R1	Seawater Control	24	Male	R1	Control_24h_Male	[2025-01-25]	09:00 BST	1
+IL118	T24-C0-F-B1	Ctrl_24h_Female_B1	Seawater Control	24	Female	R1	Control_24h_Female	[2025-01-25]	09:00 BST	2
+IL38	T24-C0-M-R2	Ctrl_24h_Male_R2	Seawater Control	24	Male	R2	Control_24h_Male	[2025-01-25]	09:00 BST	1
+IL83	T24-C0-F-R2	Ctrl_24h_Female_R2	Seawater Control	24	Female	R2	Control_24h_Female	[2025-01-25]	09:00 BST	1
+IL39	T24-C0-M-R3	Ctrl_24h_Male_R3	Seawater Control	24	Male	R3	Control_24h_Male	[2025-01-25]	09:00 BST	1
+IL84	T24-C0-F-R3	Ctrl_24h_Female_R3	Seawater Control	24	Female	R3	Control_24h_Female	[2025-01-25]	09:00 BST	1
+IL40	T24-CD-M-R1	DMSO_24h_Male_R1	DMSO Control	24	Male	R1	DMSO_24h_Male	[2025-01-25]	09:00 BST	1
+IL85	T24-CD-F-R1	DMSO_24h_Female_R1	DMSO Control	24	Female	R1	DMSO_24h_Female	[2025-01-25]	09:00 BST	1
+IL104	T24-CD-M-B1	DMSO_24h_Male_B1	DMSO Control	24	Male	R2	DMSO_24h_Male	[2025-01-25]	09:00 BST	2
+IL119	T24-CD-F-B1	DMSO_24h_Female_B1	DMSO Control	24	Female	R2	DMSO_24h_Female	[2025-01-25]	09:00 BST	2
+IL42	T24-CD-M-R3	DMSO_24h_Male_R3	DMSO Control	24	Male	R3	DMSO_24h_Male	[2025-01-25]	09:00 BST	1
+IL87	T24-CD-F-R3	DMSO_24h_Female_R3	DMSO Control	24	Female	R3	DMSO_24h_Female	[2025-01-25]	09:00 BST	1
+IL43	T24-C100-M-R1	Phen100_24h_Male_R1	Phenanthrene	24	Male	R1	Phen100_24h_Male	[2025-01-25]	09:00 BST	1
+IL88	T24-C100-F-R1	Phen100_24h_Female_R1	Phenanthrene	24	Female	R1	Phen100_24h_Female	[2025-01-25]	09:00 BST	1
+IL44	T24-C100-M-R2	Phen100_24h_Male_R2	Phenanthrene	24	Male	R2	Phen100_24h_Male	[2025-01-25]	09:00 BST	1
+IL89	T24-C100-F-R2	Phen100_24h_Female_R2	Phenanthrene	24	Female	R2	Phen100_24h_Female	[2025-01-25]	09:00 BST	1
+IL45	T24-C100-M-R3	Phen100_24h_Male_R3	Phenanthrene	24	Male	R3	Phen100_24h_Male	[2025-01-25]	09:00 BST	1
+IL90	T24-C100-F-R3	Phen100_24h_Female_R3	Phenanthrene	24	Female	R3	Phen100_24h_Female	[2025-01-25]	09:00 BST	1
